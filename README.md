@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[Live Demo](http://wuyungen.top "点击查看Live Demo")
+[Live Demo](https://sharpfd.github.io/vue-marquee-bar/dist/index.html "点击查看Live Demo")
 
 ## preview 效果预览
 
