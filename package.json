@@ -3,7 +3,7 @@
   "description": "a vue marquee bar",
   "author": "console.logman@gmail.com",
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

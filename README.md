@@ -91,7 +91,7 @@ Vue.use(VueMarqueeBar);
 
 ## 更新日志
 
-**版本：1.0.3**
+**版本：1.0.4**
 
 Contributor: [@sharpFD](<https://github.com/sharpFD>)
 
