@@ -1,7 +1,9 @@
 {
-  "name": "vue-marquee-bar-3",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vue-marquee-bar",
+  "description": "a vue marquee bar",
+  "author": "console.logman@gmail.com",
+  "private": false,
+  "version": "1.0.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,7 +11,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.5.0",
