@@ -1,4 +1,4 @@
-import VueMarqueeBar from './src/components/VueMarqueeBar.vue'
+import VueMarqueeBar from '../components/VueMarqueeBar.vue'
 import _Vue from 'vue'
 
 VueMarqueeBar.install = Vue => {
